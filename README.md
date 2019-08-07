@@ -1,5 +1,5 @@
 # CalculatorLWC
-My first LWC!
+My first LWC!\n
 A simple 4 function calculator lightning web component.  This will drop right into your Salesforce Lightning page layout!
 
 ![alt text](LWCSS.png)
